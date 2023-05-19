@@ -1,32 +1,26 @@
-
+<h1 align="center" >Hi 👋, I'm Gopalakrishnan</h1>
 <table width="100%"> 
   <tr>
   <td width="50%">
     
 &nbsp; <br> 
-
   <p align="middle"> <img src="https://github.com/Er-AI-GK/Er-AI-GK/assets/106463633/cdd236b8-4265-4c5d-aa57-17063a8af270" width="600px"> </p>
-
-
-
   </td>
   <td width="50%">
 
-
-### <p align="middle"> <img src="https://user-images.githubusercontent.com/72274851/152816504-1f9f0a08-82c8-41dd-86c6-e1338e337888.gif" width="200px"></h2> I am Joel John Joseph!<img src="https://user-images.githubusercontent.com/72274851/152804344-275f01b6-3d85-4a24-94a8-c449e516e52a.gif" width="40px"></h2></p>
-<br/>
-
+### <p align="middle"> <img src="https://github.com/Er-AI-GK/Er-AI-GK/assets/106463633/cc43fcc0-abbe-4d08-9259-d5a18c67e94c" width="500px"></p>
 
 - 🔭 I’m currently working on my goals  
+    
 - 🌱 I’m currently learning Full-Stack Development & Data Science  
+    
 - 👯 I’m looking to collaborate on projects  
+    
 - 🤝 I’m looking help for my future projects  
   
-
 - ⚡ Fun fact : Copy from others but little bit add your essence like no one can find out  
   
-
-📫 How to reach me on LinkedIn :[ @Gopalakrishnan D](https://www.linkedin.com/in/gopalakrishnan-d-78663b230/)
+- 📫 How to reach me on LinkedIn :[ @Gopalakrishnan D](https://www.linkedin.com/in/gopalakrishnan-d-78663b230/)
     
   </tr>   
   </table>
@@ -34,9 +28,7 @@
 <div align="center">
 <img src="https://tenor.com/bqrsc.gif" align="center" style="width: 100%" />
 </div>  
-  
-
-### <div align="center">I'm Gopalakrishnan, a full-time under graduate student 👨‍💻 working remotely since 2020 🚀</div>  
+    
   
 
 
