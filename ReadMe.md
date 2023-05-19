@@ -75,11 +75,6 @@
   <a href="https://www.hackerrank.com/gopalakrishnan57">
   <img src=https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a> 
-  
-  <p align="center">
-<a href="https://www.hackerrank.com/gopalakrishnan57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gopalakrishnan57" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gopalakrishnan-d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gopalakrishnan-d" height="30" width="40" /></a>
-</p>
 </div>  
   
 
