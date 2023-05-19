@@ -3,7 +3,7 @@
   <tr>
   <td width="50%">
     
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/3dGCs7yai3poIdtZrA03b3)
+&nbsp; <br> 
 
   <p align="middle"> <img src="https://github.com/Er-AI-GK/Er-AI-GK/assets/106463633/cdd236b8-4265-4c5d-aa57-17063a8af270" width="600px"> </p>
 
@@ -17,13 +17,16 @@
 <br/>
 
 
-  - 🔭 I’m currently working on Contribution
-  - 🌱 I’m currently learning Masters in computer application in Data analytics
-  - 👯 I’m looking to collaborate on Projects
-  - 🤔 I’m looking for help with Documentation and tags
-  - 📫 How to reach me on LinkedIn:[Linkedin - @Joel John Joseph](https://www.linkedin.com/in/joel-john-joseph-2b77a41a4/)
-  - 😄 Pronouns:He/his
-  - ⚡ Fun fact: I have 3 J on my name
+- 🔭 I’m currently working on my goals  
+- 🌱 I’m currently learning Full-Stack Development & Data Science  
+- 👯 I’m looking to collaborate on projects  
+- 🤝 I’m looking help for my future projects  
+  
+
+- ⚡ Fun fact : Copy from others but little bit add your essence like no one can find out  
+  
+
+📫 How to reach me on LinkedIn :[ @Gopalakrishnan D](https://www.linkedin.com/in/gopalakrishnan-d-78663b230/)
     
   </tr>   
   </table>
@@ -36,22 +39,7 @@
 ### <div align="center">I'm Gopalakrishnan, a full-time under graduate student 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on my goals  
-  
 
-- 🌱 I’m currently learning Full-Stack Development & Data Science  
-  
-
-- 👯 I’m looking to collaborate on projects  
-  
-
-- 🤝 I’m looking help for my future projects  
-  
-
-- ⚡ Fun fact : Copy from others but little bit add your essence like no one can find out  
-  
-
-📫 How to reach me on LinkedIn :[ @Gopalakrishnan D](https://www.linkedin.com/in/gopalakrishnan-d-78663b230/)
   
   
 
