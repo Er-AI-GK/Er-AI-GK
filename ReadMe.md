@@ -4,11 +4,12 @@
   <td width="50%">
     
 &nbsp; <br> 
+    <p align="middle"> <img src="https://github.com/Er-AI-GK/Er-AI-GK/assets/106463633/cc43fcc0-abbe-4d08-9259-d5a18c67e94c" width="500px"></p>
   <p align="middle"> <img src="https://github.com/Er-AI-GK/Er-AI-GK/assets/106463633/cdd236b8-4265-4c5d-aa57-17063a8af270" width="600px"> </p>
   </td>
   <td width="50%">
 
-### <p align="middle"> <img src="https://github.com/Er-AI-GK/Er-AI-GK/assets/106463633/cc43fcc0-abbe-4d08-9259-d5a18c67e94c" width="500px"></p>
+### 
 
 - 🔭 I’m currently working on my goals  
     
@@ -28,13 +29,6 @@
 <div align="center">
 <img src="https://tenor.com/bqrsc.gif" align="center" style="width: 100%" />
 </div>  
-    
-  
-
-
-  
-  
-
 <br/>  
 
 
@@ -45,7 +39,7 @@
   
 </div>
 
-</td><td valign="top" width="33%">
+</td><h3 align="left">Languages and Tools:</h3><td valign="top" width="33%">
 
 
 
@@ -64,7 +58,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/its.dev.uchiha" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/ Er_AI_GK" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -75,6 +69,17 @@
 <a href="https://www.kaggle.com/gopalakrishnand" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
+ <a href="https://www.leetcode.com/gopalakrishnan-d">
+  <img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06 alt=kaggle style="margin-bottom: 5px;" />
+</a> 
+  <a href="https://www.hackerrank.com/gopalakrishnan57">
+  <img src=https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a> 
+  
+  <p align="center">
+<a href="https://www.hackerrank.com/gopalakrishnan57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gopalakrishnan57" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gopalakrishnan-d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gopalakrishnan-d" height="30" width="40" /></a>
+</p>
 </div>  
   
 
