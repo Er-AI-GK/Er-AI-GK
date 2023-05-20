@@ -65,6 +65,10 @@
 
 </div>  
 
+<h1 align="center"> GitHub Stats</h1>  
+![](https://github-readme-stats.vercel.app/api?username=Er-AI-GK&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Er-AI-GK&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Er-AI-GK&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <h1 align="center"> Tech Stacks</h1>  
 
@@ -253,10 +257,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=er-ai-gk&" alt="er-ai-gk" /></p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Er-AI-GK&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Er-AI-GK&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Er-AI-GK&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Er-AI-GK&theme=discord&no-frame=false&no-bg=true&margin-w=4)
