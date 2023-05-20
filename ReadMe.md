@@ -57,14 +57,14 @@
 <a href="https://github.com/Er-AI-GK" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="https://linkedin.com/in/gopalakrishnan-d-78663b230" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 <a href="https://instagram.com/its.dev.uchiha" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/Er_AI_GK" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/gopalakrishnan-d-78663b230" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.kaggle.com/gopalakrishnand" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
@@ -76,17 +76,12 @@
   <img src=https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a> 
 </div>  
-
-
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Er-AI-GK&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
 ## Recent Blog Posts  
   
 
@@ -107,10 +102,10 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 -------------------------------------------------------------------
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=er-ai-gk&label=Profile%20views&color=0e75b6&style=flat" alt="er-ai-gk" /> </p>
 
@@ -174,4 +169,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Er-AI-GK&icon=0&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
