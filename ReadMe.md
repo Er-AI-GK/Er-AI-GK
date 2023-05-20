@@ -65,9 +65,10 @@
 
 </div>  
 
-<h1 align="center"> GitHub Stats</h1>  
-![](https://github-readme-stats.vercel.app/api?username=Er-AI-GK&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Er-AI-GK&theme=vue-dark&hide_border=true)<br/>
+<h1 align="center"> GitHub Stats</h1>
+
+![](https://github-readme-stats.vercel.app/api?username=Er-AI-GK&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Er-AI-GK&theme=vue-dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Er-AI-GK&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <h1 align="center"> Tech Stacks</h1>  
